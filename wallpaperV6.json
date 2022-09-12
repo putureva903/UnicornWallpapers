@@ -19,17 +19,29 @@
       "link_redirect": "https://"
     }
   ],
-  "Morexx":
+  "More":
   [
     {
       "id":1,
-      "title":"WhatsApp Messenger",
-      "image":"https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+      "title":"BT 21 Wallpapers HD 4K",
+      "image":"https://play-lh.googleusercontent.com/DY325LJhdnhAYV0nf0flESLQ4X7HTJoNVQ7CpDpfWvMn-T-5hIDBk5LJEGF0hzTB7OdS=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.BT21Wallpapers&hl=in&gl=US"
+    },
+	{
+      "id":2,
+      "title":"Neon Mask Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/kvFCtygnCkvWyMeOpXZOBQ8ZZA-CYPDAOBdLJbUtA48-G6DcEWO1YQJN8Vogjq2zsg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.NeonMaskWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":3,
+      "title":"Galaxy Wolf Wallpapers 4K",
+      "image":"https://play-lh.googleusercontent.com/UQDpPpXDquuHXSJjNYRjwGKyxdvf4EPnUoGlMG_BEAONnPCWlhyzbU0-ZRrncYY3lWld=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.GalaxyWolfWallpapers&hl=in&gl=US"
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Unicorn",
@@ -39,7 +51,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
